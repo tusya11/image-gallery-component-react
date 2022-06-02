@@ -1,5 +1,13 @@
 # Image Gallery Component on React 
 
+The interface of this component is presented below:
+
+<img width="1085" alt="Снимок экрана 2022-06-02 в 11 19 48" src="https://user-images.githubusercontent.com/84925698/171586808-4fc43586-452f-40c5-9a0c-7d2dd0005674.png">
+
+Clicking on the picture opens a window with this picture:
+
+<img width="908" alt="Снимок экрана 2022-06-02 в 11 22 50" src="https://user-images.githubusercontent.com/62177136/171587337-86957c5e-1f02-49df-ab6e-2709b7ccde4c.png">
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
